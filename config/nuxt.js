@@ -60,7 +60,7 @@ module.exports = {
    ** https://github.com/nuxt-community/vuetify-module
    */
   manifest: {
-    name: 'adonis-vue',
+    name: 'nuxt-adonis',
     lang: 'ja'
   },
   vuetify: {
