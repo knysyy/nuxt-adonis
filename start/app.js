@@ -21,6 +21,7 @@ const providers = [
   '@adonisjs/shield/providers/ShieldProvider',
   '@adonisjs/session/providers/SessionProvider',
   '@adonisjs/auth/providers/AuthProvider',
+  '@adonisjs/http-logger/providers/LoggerProvider',
   path.join(__dirname, '..', 'providers', 'NuxtProvider')
 ]
 
